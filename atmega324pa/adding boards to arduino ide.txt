@@ -1,0 +1,5 @@
+by adding this line to ARDUINO IDE/file/preferences/additional boards manager url:
+
+URL=https://mcudude.github.io/MightyCore/package_MCUdude_MightyCore_index.json
+
+source link=== https://github.com/MCUdude/MightyCore?tab=readme-ov-file#supported-microcontrollers

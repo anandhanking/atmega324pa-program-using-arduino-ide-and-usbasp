@@ -1,0 +1,12 @@
+
+FEMALE CONNECTOR CONNECTIONS.
+
+1 == MOSI  == black
+2 == MISO  == white
+3 == SCK   == blue
+4 == RESET == red
+5 == GROUND
+6 == NC
+7 == NC
+8 == NC
+9 == VCC(+5V)
